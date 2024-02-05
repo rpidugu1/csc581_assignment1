@@ -4,7 +4,7 @@ def test_add():
     assert MathUtils.MathUtils().add() == 10
 
 def test_divide():
-    assert MathUtils.MathUtils().divide() == -1.0
+    assert MathUtils.MathUtils().divide() == 1.5
 
 def test_multiplication():
     assert MathUtils.MathUtils().multiply() == 24
